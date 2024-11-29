@@ -7,3 +7,4 @@ Features
  - Loaded dynamically as a librime plugin
 
 For more info, see [wiki](https://github.com/hchunhui/librime-lua/wiki) pages.
+ 
